@@ -1,0 +1,1 @@
+YOUR FILES ARE ENCRYPTED (시연용 가짜 랜섬노트)

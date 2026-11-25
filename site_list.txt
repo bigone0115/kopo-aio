@@ -1,0 +1,13 @@
+[ VirusTotal 및 보안 점검 테스트용 악성 사이트 리스트 ]
+
+1. WICAR 테스트 페이지 (강력 권장)
+http://www.wicar.org/test-malware.html
+http://www.wicar.org/test-exploit.html
+
+2. 피싱(Phishing) 테스트 페이지
+https://testsafebrowsing.appspot.com/s/phishing.html
+
+3. 구글 세이프 브라우징 테스트 페이지
+http://malware.testing.google.test/testing/malware/
+
+* 주의: 위 주소들은 보안 장비의 차단 성능을 테스트하기 위한 용도이므로, 실제 웹 브라우저에서 접속 시 경고창이 뜰 수 있습니다. (정상적인 동작입니다)
